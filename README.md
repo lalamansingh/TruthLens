@@ -925,22 +925,6 @@ Memory: allow ~2 GB for the backend container (two transformer models in RAM).
 
 ---
 
-## 👥 Team
-
-**GL Bajaj Institute of Technology & Management, Greater Noida** · Department of Computer Science &
-Engineering · B.Tech CSE, Section F · Session 2026–27
-
-| Name | Roll No. | Role |
-|---|---|---|
-| **Prince Tomar** | 2401920100244 | Team Leader |
-| Sachin Kumar | 2401920100276 | Member |
-| Piyush Kumar | 2401920100230 | Member |
-| Priyanshu Kumar | 2401920100248 | Member |
-
-**Project guide & coordinator:** Mr. Prasanna Dwivedi
-
----
-
 ## ⚖️ Responsible-AI statement & credits
 
 > **Probabilistic evidence, corroborated by human review — never a substitute for it.**
